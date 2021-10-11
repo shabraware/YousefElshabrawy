@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Yousef ElShabrawy.
 
-- 🏫 I'm a 2-nd grade Computer Engineering Student @ **Faculty of Engineering Cairo University.**
+- 🏫 I'm a 3-rd grade Computer Engineering Student @ **Faculty of Engineering Cairo University.**
 
 - 👨‍💻 I'm interested in **Web Devlelopment.**
 
