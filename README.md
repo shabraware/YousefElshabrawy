@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Elshabrawy</h1>
 <h3 align="center">A passionate Senior Software Engineering Student from Egypt</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & **NextJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
