@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Yousef Elshabrawy</h1>
 <h3 align="center">A passionate Senior Software Engineering Student from Egypt</h3>
 
-- 🌱 I’m currently learning **TypeScript** & **NextJS**
+- 🌱 I’m currently learning **TypeScript** & **NextJS**.
 
-- 🌱 I’m currently reading **JypeScript: The Good Parts**
+- 📖 I’m currently reading **JavaScript: The Good Parts**.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**.
 
-- 💬 Ask me about **CSS, JavaScript, React.js, Node.js and Express.js.**
+- 💬 Ask me about **CSS, JavaScript, React.js, Node.js and Express.js**.
 
 - 📫 How to reach me **yousefatefelshabrawy@gmail.com**
 
