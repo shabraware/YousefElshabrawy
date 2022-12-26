@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **TypeScript** & **NextJS**
 
+- 🌱 I’m currently reading **JypeScript: The Good Parts**
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **CSS, JavaScript, React.js, Node.js and Express.js.**
